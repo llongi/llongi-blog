@@ -1,0 +1,22 @@
+---
+title: Rig 2011/05/02
+categories: Rig, C99
+author: Luca Longinotti
+date: 2011/05/02 08:00:00
+updated: 2011/05/03 14:22:41
+---
+This week's [Rig][1] status update:
+
+* MLOCK/MRWLOCK: added functions to discover if a lock is held or not, clarified documentation wrt recursive
+  locking, and fixed a possible wrap-around bug in MLOCK and an incorrect error return in MRWLOCK
+* SMR: ported it to use MLOCK instead of its own micro-lock scheme
+* Changed rig_thread_id() to start at 1 for the main thread and not to use 0 at all. This aligns it with some
+  OS implementations, leads to better performance, and fixes a bug in MLOCK, which uses the 0 ID to signal
+  "no-thread-owns-me"
+* Changed default hash algorithm to MurmurHash 3
+* Added support for tests, using the great [Check framework for C Unit-Testing][2], and using CMake's CTest
+  to run them
+* Added optional testing support to the Gentoo ebuild (USE=test + FEATURES=test)
+
+[1]: https://dev.longi.li/Rig/ "Rig"
+[2]: http://check.sourceforge.net/ "Check C Unit-Testing Framework"

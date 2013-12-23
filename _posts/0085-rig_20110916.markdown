@@ -1,0 +1,26 @@
+---
+title: Rig 2011/09/16
+categories: Rig, C99
+author: Luca Longinotti
+date: 2011/09/16 14:37:18
+updated: 2011/09/16 14:37:18
+---
+Second year at UZH looms on the horizon... Let's hope it's gonna be FUN! ;)
+
+I haven't worked on Rig as much as I'd have liked this summer, but here's a quick summary of what did happen:
+
+* rig_str moved outside main source tree as its own module
+* further work went into testing
+* BS.txt's added, prototype configuration files for a new build-files generator, to maybe substitute CMake
+* improved support for Eclipse CDT 8.0 Static Analysis (awesome feature!)
+* fixed a bug in MurmurHash 3 (from upstream)
+* SMR using HPs was better name-spaced and the retire_mem function split up, to accommodate alternative SMR
+  methods more easily
+* rig_mem_alloc_aligned() now supports additional flags; "RIG_MEM_ALLOC_ALIGN_PAD: pad allocation to next
+  alignment boundary" was added (mostly for cache-line alignment to avoid false-sharing)
+* recursion was made optional for the MLock and the MRWLock, controlled by a flag. MRWLock now fully supports
+  recursion, in both the read and write sides. This requires TLS-based owner checking to be performed, so it's
+  not possible to disable that at compile-time for the MRWLock anymore. Non-recursive locks are the default now.
+
+Next I'll be working on an implementation of Epoch-based SMR, which should offer better performance while
+traversing lists and ease of usage than HP-based SMR (as well as not having any patents I know of on it).

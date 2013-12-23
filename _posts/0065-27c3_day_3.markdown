@@ -1,0 +1,34 @@
+---
+title: '27C3: Day 3'
+categories: Longi, CCC, Website
+author: Luca Longinotti
+date: 2010/12/30 01:25:00
+updated: 2010/12/30 01:36:31
+---
+Today we slept in even longer and arrived at the Congress past 12:30...  
+Found a nice place upstairs, facing Alexa. Ate lots of awesome Belgian butter waffles!  
+
+* 14:00 "Cognitive Psychology for Hackers", awesome talk on psychological "hacks" on humans, biases and so on
+  that influence our decision making, very well done, great examples, I'll probably buy the book he cited at
+  the end, as I'm very interested in this too, and he even mentioned "[Harry Potter and the Methods of Rationality][1]",
+  a fan-fiction I've been following, as being very much spot-on in its explanation of rational thinking.
+* 16:00 "Console Hacking 2010" was gearing up to be great, presenting results on hacking the PS3 now that you
+  can't run Linux on it anymore by default, but I had massive problems with the stream, it continued to die
+  on me (I'll have to download it later!), so I started playing with the [LigHTTPD][2] installation that powers
+  this blog, setting up SSL (so now you can also use https:// to access it) correctly, with a real certificate
+  (at least on Firefox), thanks to [StartSSL][3], great service there. I also fixed redirection from other
+  subdomains/domains, so now www.longitekk.com or test.longitekk.com automatically redirect you to the blog.  
+  I also now serve my Trac installation over HTTPS on dev.longitekk.com, thanks to mod_proxy.
+
+Between exploring Lighty's configuration syntax, eating a very good curry&rice from the BCC's catering and
+getting more waffles from Alexa, I missed a few talks in the evening.
+
+* 21:45 "Zero-sized heap allocations vulnerability analysis" gave an interesting introduction to a problem not
+  every programmer is aware of, and then went off into verification land, so I switched to "Fnord-Jahresrückblick
+  2010", which was hilarious, as usual.
+* Around 23:15 "Hacker Jeopardy" started, which is disputing its final round as I'm writing this, it's a cool
+  game to play with your colleagues, some incredibly tricky and funny questions in there.
+
+[1]: http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality "Harry Potter and the Methods of Rationality"
+[2]: http://www.lighttpd.net/ "LigHTTPD"
+[3]: https://www.startssl.com/ "StartSSL"

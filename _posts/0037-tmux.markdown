@@ -1,0 +1,34 @@
+---
+title: tmux
+categories: Gentoo, Longi, Software
+author: Luca Longinotti
+date: 2008/10/05 14:48:40
+updated: 2010/09/24 16:59:52
+---
+I'm finally back on the net, after not having any internet access at my new apartment in Zürich after I moved
+there. I now started my bachelor studies at the ETH Zürich, of course in Computer Science, though there's a
+little bit too much maths right now for me to be really excited about it, future semesters will be better I hope.
+So I'll try to get back to a few Gentoo things in the near future, now that I also finally fixed up my main
+dev system (which had its disk die just before I moved)... Still this blog entrys main focus is to tell you the
+name of a package I discovered today:
+
+**app-misc/tmux**
+
+After reinstalling this system I, as always before, emerged screen to take care of my detached terminal needs,
+I always had the problem with backspace not working correctly from the desktop, which I was never able to fix
+correctly, but it was bearable. This time it seems something else went wrong too, and inside my screen sessions
+it didn't source .bashrc or .bash_profile (which sources .bashrc), even if the shell was correctly set to a bash
+login shell...  
+So, while perusing Gentoo Wiki's Screen TIPs to see if anyone had seen something like this, at the end of that page
+I came across the mention of tmux, a "simple, modern, BSD-licensed alternative to GNU Screen".  
+Seeing that it only depends on ncurses (which is usually installed everywhere), and was only like 100kb of source,
+I installed it and tried it out. I have to say I'm impressed, this little tool does everything I did with screen
+too (mainly just having multiple, detached terminals and resuming them, which is probably no "advanced screen usage",
+but what most people will likely need), backspace works without any fiddling, the Bash stuff is correctly sourced,
+and the few commands are easy to adapt to, here a little overview:
+
+* tmux - Starts a new tmux session
+* CTRL-b d - Press CTRL-b, then d, to detach the terminal
+* tmux a - Reattach to the detached terminal
+
+Still, read **man tmux** to get the full overview, and then happily **emerge -C screen**, as I just did.

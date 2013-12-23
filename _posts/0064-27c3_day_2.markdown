@@ -1,0 +1,50 @@
+---
+title: '27C3: Day 2'
+categories: Longi, CCC
+author: Luca Longinotti
+date: 2010/12/29 15:00:00
+updated: 2010/12/29 15:00:00
+---
+Day 2 of Congress started late, sleeping is important!  
+At around 11:00 we were there again, and again upstairs, which I personally prefer: it's much more open,
+there's a better view of outside (I know it's strange, but I kinda like those things called windows :D ) and
+better lightning. Network seems to work better than yesterday, LAN works fine, WLAN on the phone too, and
+the streams are mostly stable.
+
+* 12:30, I started by following the "Lying To The Neighbors" talk about tracker-less BitTorrent, but, while
+  it was interesting and well done, I don't use tracker-less BitTorrent, and it couldn't hold my attention,
+  so I switched over to the "Reverse Engineering the MOS 6502 CPU" talk, which I found more enjoyable.
+* 14:00, "I Control Your Code" was a very well done overview of the main flaws in programs that allow for
+  compromise of your system, how they work, and how user-space virtualization (basically another layer of
+  indirection that translates code and adds lots of checks, both static and dynamic, to prevent problems)
+  could mitigate/block them.  
+  It was a very informative talk, providing examples, and both explaining basic as well as more advanced
+  attacks and techniques.
+* 16:00, "Is the SSLiverse a safe place?" provided an overview on how SSL is deployed worldwide (courtesy
+  of the [EFF's SSL Observatory][1] project) and what problems there are in the current SSL infrastructure
+  (mostly related to trusting too many CAs, that can't really be verified as being trustworthy).
+* 17:15, the talk I wanted to watch about "Data Analysis in Terabit Ethernet Traffic" by Lars Weiler got
+  moved to Day 4, so I watched part of FX's talk on "Building Custom Disassemblers", very interesting,
+  but also very specialized, I don't think I'll ever have to analyze the binary code from some PLC or other
+  obscure embedded device in the near future myself.
+* 18:30 brought "Defense is not dead", a talk on how todays computers still rely on security models from the
+  70/80s, and how there actually are programming languages, techniques and so on that were developed in the
+  last 20 years that can prevent many of the security problems we encounter constantly, along with formal
+  verification of code (or parts of it at least), and how using those can lead to more secure computers.
+
+We then went to get some food at Alexa (hmm Nordsee, fish, yeah!), to be ready for the expected highlight
+of the day:
+
+* 20:00, "High-speed high-security cryptography: encrypting and authentication the whole Internet", by Daniel
+  J. Bernstein, a very interesting talk on why DNSSEC and HTTPS are incomplete (and sometimes faulty)
+  solutions to fully securing the Internet, and how to deploy new protocols he developed ([CurveCP][2] and
+  [DNSCurve][3]) to fix that. While it sounds great and seems to be deployable easily and without breaking
+  compatibility too much, I don't really see this taking over HTTPS/DNSSEC's market share easily, but we'll see.
+
+After that, we went back to the Hotel, where we watched four episodes of "Two and a Half Men" on the television
+(awesome, I hadn't seen those yet!), and coded a little; I managed to finish the Rig stack and queue and write
+much better documentation for them.
+
+[1]: https://www.eff.org/observatory/ "EFF SSL Observatory"
+[2]: http://curvecp.org/ "CurveCP"
+[3]: http://dnscurve.org/ "DNSCurve"

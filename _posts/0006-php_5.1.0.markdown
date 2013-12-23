@@ -1,0 +1,21 @@
+---
+title: PHP 5.1.0
+categories: Gentoo, PHP
+author: Luca Longinotti
+date: 2005/11/25 19:10:37
+updated: 2005/11/25 19:10:37
+---
+PHP 5.1.0 is finally out!
+
+And no, you won't see this in Portage anytime soon. It has a couple of problems that are being discussed over
+at the php-dev mailinglist and it seems 5.1.1 will come out soon, we'll wait for 5.1.1 before considering its
+addition to the Portage tree. For the ones who really want the bleeding-edge, try out the PHP 5.1.0 ebuild
+we have in our [PHP Overlay][]. But don't complain if it breaks stuff, it's still in testing! ;)
+
+Also, thanks to Stuart, we finally have php-select, the replacement for eselect-php, wich will be part of
+the php-toolkit package.  
+The next days will see a massive update of all new-style PHP related packages (dev-php4/* is already done),
+and new revisions of dev-lang/php to fix a minor security problem and updates to use php-toolkit instead of
+eselect-php. That's all for now, cu later!
+
+[PHP Overlay]: https://overlays.gentoo.org/proj/php/timeline "Gentoo PHP Overlay"

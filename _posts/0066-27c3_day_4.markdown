@@ -1,0 +1,42 @@
+---
+title: '27C3: Day 4'
+categories: Longi, CCC
+author: Luca Longinotti
+date: 2010/12/30 16:50:00
+updated: 2010/12/30 17:16:38
+---
+Last day of 27C3 (but not last day in Berlin!), the weather is the usual: foggy and damn cold.  
+I thought to visit the Fernsehturm tomorrow, but that doesn't make much sense if the fog covers the city and
+you don't even see a mile in the distance...  
+I managed to get a 27C3 T-shirt, but no jacket, as those were all sold out right away, at least in my size,
+like no one could predict that people would buy jackets when it's -10 °C outside, and that IT guys mostly
+aren't an S or an M size. :(  
+Arrived at about 12:20 at the BCC, managed to get the same places as yesterday, and it seems to me that today
+there are less people around.
+
+* 12:45 "Cybernetics for the Masses", I didn't really know what to expect here, and it totally blew me away:
+  that woman is a mix of awesomeness and total craziness (though she calls it curiosity, and I can kinda
+  understand that :D). She presented a few projects she did on herself, concerning body modification through
+  sub-dermal implants, though she kinda seems to disregard her own health doing them. Not something for me.
+* 13:45 "Hackers and Computer Science", I kinda started watching this as a filler, waiting for "Data Analysis
+  in Terabit Ethernet Traffic" to start, but then this turned out to be an amazing talk about how Hacking is
+  (or should be) considered its own discipline, and how it deeply connects to academic research and topics,
+  and how the interaction between the two should be increased. In the end "Data Analysis in Terabit Ethernet
+  Traffic" wasn't even transmitted over stream, so I didn't see it at all.
+* 16:00 "How the Internet sees you" promised to be a good talk, but I was disappointed, I mean, I already
+  know that my ISP can look at my packets and can thus tell basic stuff like source IP, destination IP, size,
+  etc. and that he can see the DNS queries I make (as he owns the DNS server usually), and so on...  
+  I hoped to see some special tools in action that actually give you precise user tracking, and maybe some
+  real world cases from ISPs having to tap someone for law-enforcement, but this wasn't the case, there were
+  just a few graphs about how the traffic was distributed at the Congress, and that was it. So I switched to
+  "International Cyber Jurisdiction", which raised very interesting points about how jurisdiction matters in
+  the Internet-Age and how it gets a lot more complicated.
+* 17:15 will bring "Security Nightmares", which usually is a very good talk about security problems, both in
+  retrospective and in the future.
+
+We'll go grab a bite at [Las Malvinas][1], it's a steak-house near the hotel, and it looks like they have some
+really great meat. I'll probably not blog anything until after I return to Switzerland, because WLAN at the
+hotel is very expensive. By the way, it's offered by our very own Swisscom! Yeah, Swisscom does hotel WLAN
+in other countries, surprising!
+
+[1]: http://las-malvinas.de/ "Las Malvinas"

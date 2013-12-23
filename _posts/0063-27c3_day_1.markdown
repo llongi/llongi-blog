@@ -1,0 +1,69 @@
+---
+title: '27C3: Day 1'
+categories: Longi, CCC
+author: Luca Longinotti
+date: 2010/12/28 12:12:35
+updated: 2010/12/29 17:52:16
+---
+Hello from Berlin, where we arrived after a good 8:40 travel time on Sunday evening, 1:30 behind schedule...
+At least ICE trains are very comfortable and have power outlets. ;)  
+The first day of congress was a mixed experience... On one side the new ticket-presale system had the pleasant
+effect of eliminating the usual Monday morning queue to get tickets, on the other hand I'm not so sure it
+managed to reach the goal of keeping the participants to a manageable level, every conference room is routinely
+full, every table in the hackcenter and upstairs too, and lots of people have to sit on the floors just to get
+some kind of place (especially in the evening)... I really hoped that if they actually limited the number of
+tickets with the presale system, they also would have based the number of them on the sum of real, available
+chairs in the building (or just a little more), seems that was wishful thinking.  
+I also can't really support the table reservation system for groups in the HackCenter, you get entire tables
+reserved by projects that no one ever heard of, and which are not there most of the time, but leave an incredible
+mess of hardware and junk to occupy the table. Which brings me to another point: looking at HackCenter tables,
+one can come to only one conclusion: hackers are freaking messy! There's bottles, caps, paper, junk, half-eaten
+food and everything in between lying around, people just leave it there when they go away, and it's not like
+there isn't a trashcan every 10 meters or even less... Use them? If you don't find one, organize one? Just
+keep the place tidy, please.  
+Also the first day was plagued by infrastructure problems, LAN works well, WLAN was mostly unusable (either
+you got no IP or it was so slow to be unusable, things seem to be better now), the streams initially didn't
+really work (sound just disappeared at random, even over DVB-T at times), in the evening they actually worked
+very well over DVB-T, over LAN I couldn't (and still can't) watch 10 minutes without it dieing and me having
+to restart it.  
+So let's come to the talks, which are the main reason I'm here:
+
+* 12:30, "Code deobfuscation by optimization": didn't see it as the room was overloaded and the streams broken,
+  will have to download a recording when they're available...
+* I managed to follow some of the "Copyright Enforcement Vs. Freedoms" and "Von Zensursula über Censilia ..."
+  talks on a big screen upstairs outside of the conference room, they both made some great points on why
+  censorship and too tight copyright enforcement are bad and not helpful at all.
+* 16:00, "Automatic Identification of Cryptographic Primitives in Software": this time I managed to find place
+  in the conference room, but I might not have bothered, while the talk wasn't bad, I couldn't see anything
+  exciting or groundbreaking in it, it all boiled down to using some heuristics and signatures to find if a
+  program was using crypto code and what kind of crypto code, it's an interesting, kinda specialized way to
+  analyze binaries, using more or less reliable  techniques to do it.
+
+After that we went to eat, got a really great pizza at an Italian place on the Fernsehturm square, right
+besides the Rathaus. Food really costs less here.  
+After we were back at the BCC the real fun began:
+
+* 20:30, "Desktop on the Linux": it was just a big ROFL, the speaker (while he made some very good points
+  about avoiding complexity and putting lots of stuff together, which I agree with) had not really researched
+  every issue in-depth, and sitting in the audience was [Lennart Poettering][1], which pretty much trashed
+  him on every point he was trying to make by explaining why those decisions were made, how the implementation
+  really works in-depth, and so on. It was almost sad to watch, while the speaker had some good points, he
+  didn't manage to really bring any of them across without trashing and laughter ensuing.
+
+And then the good stuff came:
+
+* 21:30, "Recent advances in IPv6 insecurities": really great talk, the speaker was very good, you saw right
+  away this guy is used to giving talks. Very interesting and understandable explanations of the security
+  problems he found in the IPv6 protocol, lots of images, very good English accent. All in all a very enjoyable
+  and informative talk!
+* 23:00, "Adventures in analyzing Stuxnet": like the speaker would say it: "Hey dude, this was fucking awesome!",
+  really. The talk by Microsoft's Bruce Dang was incredibly interesting, he explained how they handled finding
+  the various zero-day bugs Stuxnet used to infect a Windows system, how they used various debugging techniques,
+  binary analysis, team work with other Windows subsystem teams and so on to understand how Stuxnet actually got
+  onto a Windows system and how to fix those flaws. Very informative stuff, and presented in a very relaxed and
+  funny, down-to-earth way. As one spectator said at the end: "I never expected to enjoy a Microsoft talk so much!".
+* Last but not least, 00:15 brought the "Pentanews Game Show", a new multi-player game show they introduced this
+  year, based on "Who wants to be a millionaire?" but with IT-news related questions, quite enjoyable and funny.
+  I personally like this game much more than "Hacker Jeopardy" (which will be on Day 3).
+
+[1]: http://0pointer.de/lennart/ "Lennart Poettering"

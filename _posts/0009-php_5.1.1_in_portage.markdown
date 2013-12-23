@@ -1,0 +1,17 @@
+---
+title: PHP 5.1.1 in Portage
+categories: Gentoo, PHP
+author: Luca Longinotti
+date: 2006/01/04 12:49:35
+updated: 2006/01/04 12:49:35
+---
+Finally, PHP 5.1.1 and the new revisions for the other dev-lang/php versions are in the Portage tree. :)
+
+Those should fix a lot of bugs and problems, especially with Hardened-PHP (updated to latest 0.4.8 release)
+and GCC4 (bug in the CURL extension that made the compile fail).  
+With those, we also now use app-admin/php-toolkit instead of app-admin/eselect-php, so you'll be required
+to migrate to php-toolkit (just unmerge eselect-php and emerge php-toolkit), since eselect-php will soon
+be removed from the tree.  
+The [PHP Overlay][] was updated/cleaned accordingly. Enjoy PHP 5.1! ;)
+
+[PHP Overlay]: https://overlays.gentoo.org/proj/php/timeline "Gentoo PHP Overlay"

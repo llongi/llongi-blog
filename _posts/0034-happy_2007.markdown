@@ -1,0 +1,15 @@
+---
+title: Happy 2007!
+categories: Longi, CCC
+author: Luca Longinotti
+date: 2007/01/01 01:16:35
+updated: 2007/01/01 01:16:35
+---
+**Happy new year people!!! ;)**
+
+I wish you all a great 2007 full of fun and happiness and all the other good stuff (new hardware comes to mind).  
+23C3 finished two days ago, it was really great fun with great talks and great people (yeah, Polish guy living
+in the USA, from the university near Atlanta, you know who you are ;) ).  
+Now we've passed yesterday by visiting Berlin and at the moment we're connected through the Hostel's connection...
+It's depressing to know it's at least twice as fast as my home DSL.  
+By the way, all this convinced me to come to FOSDEM 07, so be prepared to know chtekk (or be scared, that depends).

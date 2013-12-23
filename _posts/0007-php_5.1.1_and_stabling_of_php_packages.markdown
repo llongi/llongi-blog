@@ -1,0 +1,19 @@
+---
+title: PHP 5.1.1 and stabling of PHP packages
+categories: Gentoo, PHP
+author: Luca Longinotti
+date: 2005/12/20 22:42:35
+updated: 2005/12/20 22:42:35
+---
+A bit of time has elapsed since the last Gentoo+PHP related blog entry, so I'll update you about it's status
+with this one.  
+dev-lang/php was updated and works well, 5.1.1 is ready for Portage, indeed we're adding new and updated PECL
+etc. packages to the Portage tree lately, but we have to wait until [bug 115887][1] is fixed before we can add
+the new dev-lang/php packages and eclasses themselves to Portage, so I hope this will happen really soon!  
+After that we'll leave the new-style PHP packages about one week still in ~ARCH, and start stabling them,
+beginning with x86 (we'll open a bug about that), probably on the first/second of the new year.  
+I hope you all appreciate the new PHP packages, they work very well here, and if you appreciate the work
+we're doing on them, [here][2]'s my Amazon wishlist if anyone's intersted. Merry christmas and a happy new year!
+
+[1]: https://bugs.gentoo.org/115887 "Gentoo bug #115887"
+[2]: https://www.amazon.de/gp/registry/registry.html?type=wishlist&id=3HZO7KAX1GQYZ "my Amazon wishlist"

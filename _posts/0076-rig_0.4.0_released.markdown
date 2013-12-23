@@ -1,0 +1,48 @@
+---
+title: Rig 0.4.0 released
+categories: Rig, C99
+author: Luca Longinotti
+date: 2011/04/10 21:20:00
+updated: 2011/04/11 15:26:11
+---
+Finally, after years of development, the first release of the [Rig][1] library is ready.  
+Rig started out as a safe strings C99 library, but grew to encompass lock-free data structures and other
+helpful, multiprocessor oriented features. A quick overview:
+
+* lock-free stack, queue and ordered list, all with **the ability to iterate over them**, O(1) size
+* memory is correctly reclaimed through the use of the SMR concept, working correctly in the absence of GC
+  (Garbage Collection is not part of the C language)
+* hashing functions
+* atomic counter
+* thread abstraction (currently supporting POSIX Threads, Win32 Threads will follow)
+* Micro-ReadWrite Lock, a minimal RW-Lock, following the concept of Windows's Slim-RW-Locks, fully based on
+  atomic operations, but also taking advantage of TLS to implement advanced features, like owner-checking
+* string/buffer functions (still incomplete, don't use those yet!)
+
+Focus was set on modularity and reusability, meaning some parts of Rig are segregated and can be used by
+other projects too:
+
+* [Atomic_Ops][2]: atomic operations headers, providing atomic load, store, add, fetch-and-add, CAS
+  (returning the old value or a boolean), swap and various memory barrier types. All operations expect
+  an explicit memory barrier specification, forcing the programmer to think about them.  
+  A flag-pointer is also provided, an atomic pointer which uses its last bit to save a boolean flag.  
+  Modern x86-64 (SSE2 and newer) is the only currently supported architecture, others will follow as soon
+  as I get access to hardware for testing (offers are gladly accepted!).  
+  This work was inspired by [OpenPA][3].
+* [SupportDS][4]: support data structures, non-multi-threading-safe, currently there's a hybrid stack.
+* [System Includes][5]: a series of headers to parse the predefined macros on your system to discover things
+  like which OS, which compiler, which libc and which architecture you're running on, to influence compilation,
+  and define a few other features in an as portable way as possible, like TLS support or alignment specification.  
+  This work was inspired by [predef][6].
+
+Rig currently requires GCC and Cmake to compile, as well as the PThreads library.  
+It can be [downloaded here][7], and following is its SHA256 checksum:  
+SHA256 0e95e7c643631f378b46c4b9c948f59b48927d5b249e7bb885623a7491ad45ba rig-0.4.0.tar.bz2
+
+[1]: https://dev.longi.li/Rig/ "Rig"
+[2]: https://dev.longi.li/Rig/browser/atomic_ops "Atomic_Ops"
+[3]: https://trac.mcs.anl.gov/projects/openpa/ "OpenPA"
+[4]: https://dev.longi.li/Rig/browser/trunk/src/support "SupportDS"
+[5]: https://dev.longi.li/Rig/browser/trunk/include/sys "System Includes"
+[6]: http://predef.sourceforge.net/ "predef"
+[7]: /downloads/Rig/rig-0.4.0.tar.bz2 "Rig 0.4.0"

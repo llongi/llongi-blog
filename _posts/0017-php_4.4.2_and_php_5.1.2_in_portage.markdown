@@ -1,0 +1,13 @@
+---
+title: PHP 4.4.2 and PHP 5.1.2 in Portage
+categories: Gentoo, PHP
+author: Luca Longinotti
+date: 2006/03/12 15:36:10
+updated: 2006/03/12 15:36:10
+---
+As the title says, PHP 4.4.2 and PHP 5.1.2 were just added to Portage, enjoy!  
+During the last week dev-php/PEAR-PEAR was also updated to 1.4.8 which should hopefully fix all the problems
+you may have been experiencing with access violations etc. when installing some PEAR packages.  
+You can also find PHP 5.1.3RC1 in the [PHP Overlay][] now for testing, enjoy that too.
+
+[PHP Overlay]: https://overlays.gentoo.org/proj/php/timeline "Gentoo PHP Overlay"
