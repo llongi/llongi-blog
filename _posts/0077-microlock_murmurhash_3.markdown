@@ -15,7 +15,7 @@ A quick summary of work done on [Rig][1] in the past weeks since the release of 
   the membar situation still needs some work there), and further support for emulating certain atomic
   primitives using others (there's [a graph][4] of how this works)
 
-[1]: https://dev.longi.li/Rig/ "Rig"
+[1]: https://github.com/llongi/rig/ "Rig"
 [2]: https://code.google.com/p/smhasher/ "MurmurHash"
 [3]: http://developers.sun.com/solaris/articles/sparcv9.pdf "SPARC v9 Manual"
-[4]: https://dev.longi.li/Rig/export/962/articles/atomic_ops_graph.jpg "Atomic_Ops graph"
+[4]: https://github.com/llongi/rig/blob/master/articles/atomic_ops_graph.jpg "Atomic_Ops graph"

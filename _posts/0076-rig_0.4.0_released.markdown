@@ -39,10 +39,10 @@ Rig currently requires GCC and Cmake to compile, as well as the PThreads library
 It can be [downloaded here][7], and following is its SHA256 checksum:  
 SHA256 0e95e7c643631f378b46c4b9c948f59b48927d5b249e7bb885623a7491ad45ba rig-0.4.0.tar.bz2
 
-[1]: https://dev.longi.li/Rig/ "Rig"
-[2]: https://dev.longi.li/Rig/browser/atomic_ops "Atomic_Ops"
+[1]: https://github.com/llongi/rig/ "Rig"
+[2]: https://github.com/llongi/atomic_ops/ "Atomic_Ops"
 [3]: https://trac.mcs.anl.gov/projects/openpa/ "OpenPA"
-[4]: https://dev.longi.li/Rig/browser/trunk/src/support "SupportDS"
-[5]: https://dev.longi.li/Rig/browser/trunk/include/sys "System Includes"
+[4]: https://github.com/llongi/rig/tree/master/Rig/src/support "SupportDS"
+[5]: https://github.com/llongi/rig/tree/master/Rig/include/sys "System Includes"
 [6]: http://predef.sourceforge.net/ "predef"
 [7]: /downloads/Rig/rig-0.4.0.tar.bz2 "Rig 0.4.0"

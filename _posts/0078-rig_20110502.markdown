@@ -18,5 +18,5 @@ This week's [Rig][1] status update:
   to run them
 * Added optional testing support to the Gentoo ebuild (USE=test + FEATURES=test)
 
-[1]: https://dev.longi.li/Rig/ "Rig"
+[1]: https://github.com/llongi/rig/ "Rig"
 [2]: http://check.sourceforge.net/ "Check C Unit-Testing Framework"

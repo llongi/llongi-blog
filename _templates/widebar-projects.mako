@@ -1,8 +1,6 @@
 <h3>Projects</h3>
 <ul>
-	<li><a href="https://dev.longi.li/Rig/" title="Rig">Rig</a></li>
-	<li><a href="https://dev.longi.li/Furie/" title="Furie">Furie</a></li>
-	<li><a href="https://dev.longi.li/BuildStuff/" title="BuildStuff">BuildStuff</a></li>
-	<li><a href="https://dev.longi.li/Projects/" title="Projects">Projects</a></li>
-	<li><a href="https://dev.longi.li/mallux/" title="mallux">mallux</a></li>
+	<li><a href="https://github.com/llongi/" title="GitHub Repos">GitHub Repos</a></li>
+	<li><a href="https://github.com/usb4java/usb4java/" title="usb4java">usb4java</a></li>
+	<li><a href="http://sourceforge.net/projects/jaer/" title="jAER">jAER</a></li>
 </ul>

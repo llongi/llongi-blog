@@ -179,5 +179,5 @@ the case.
 [2]: http://software.intel.com/sites/products/documentation/hpc/composerxe/en-us/cpp/lin/bldaps_cls/common/bldaps_tls_comm.htm "ICC TLS"
 [3]: http://download.oracle.com/docs/cd/E19205-01/819-5265/bjabi/index.html "Solaris Studio TLS"
 [4]: http://publib.boulder.ibm.com/infocenter/comphelp/v111v131/topic/com.ibm.xlc111.aix.doc/language_ref/thread.html "TLS on AIX"
-[5]: https://dev.longi.li/Rig/browser/trunk/include/sys/system_all.h#L52 "TLS defines"
+[5]: https://github.com/llongi/rig/blob/master/Rig/include/sys/system_all.h#L62 "TLS defines"
 [6]: http://download.oracle.com/docs/cd/E18659_01/html/821-1384/gjzke.html "Solaris Studio const/dest"

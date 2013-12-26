@@ -25,5 +25,5 @@ dependencies to run. For my own blog, I also needed dev-python/imaging for the g
 [3]: http://www.disqus.com/ "Disqus"
 [4]: http://www.google.com/ "Google"
 [5]: http://www.freecsstemplates.org/ "Free CSS Templates"
-[6]: https://dev.longi.li/Projects/browser/gentoo-ebuilds/dev-python/blogofile/blogofile-0.7.1.ebuild "Blogofile 0.7.1 Gentoo ebuild"
-[7]: svn://dev.longi.li/projects/gentoo-ebuilds/ "my Gentoo ebuilds overlay""
+[6]: https://github.com/llongi/llongi-gentoo/blob/master/dev-python/blogofile/blogofile-0.7.1.ebuild "Blogofile 0.7.1 Gentoo ebuild"
+[7]: https://github.com/llongi/llongi-gentoo/ "my Gentoo ebuilds overlay""
