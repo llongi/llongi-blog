@@ -18,7 +18,7 @@ I've always been interested in systems software, embedded systems, operating sys
 If it's low-level, I like it! The lower, the better!
 <br />
 <br />
-<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=2&amp;hl=en&amp;bgcolor=%23FFFFFF&amp;src=l%40longi.li&amp;color=%23875509&amp;ctz=Europe%2FZurich" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=2&amp;hl=en&amp;bgcolor=%23FFFFFF&amp;src=l%40longi.li&amp;color=%232952A3&amp;ctz=Europe%2FZurich" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <br />
 <br />
 From 2005 to 2009 I was a Gentoo developer, working mainly on the various components of the LAMP stack, PHP and Apache primarly. It has been one
