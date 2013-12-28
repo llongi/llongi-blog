@@ -22,11 +22,11 @@ def write_blog_chron(posts, root):
         page_posts = posts[post_num:post_num + blog.posts_per_page]
         post_num += blog.posts_per_page
         if page_num > 1:
-            prev_link = "../" + str(page_num - 1)
+            prev_link = "../" + str(page_num - 1) + "/"
         else:
             prev_link = None
         if len(posts) > post_num:
-            next_link = "../" + str(page_num + 1)
+            next_link = "../" + str(page_num + 1) + "/"
         else:
             next_link = None
         page_dir = bf.util.path_join(blog.path, root, str(page_num))
