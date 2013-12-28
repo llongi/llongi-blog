@@ -15,8 +15,8 @@ much, and found them wholly inappropriate given what came after, it was some kin
 opening for a gothic metal band? Oh well, I was probably just anxious for WT to start playing. :)  
 I took two videos:
 
-* Faster (Removed because of file size)
-* What Have You Done (Removed because of file size)
+* Faster (Removed because of file size limitations)
+* What Have You Done (Removed because of file size limitations)
 
 as well as [some photos][5]. The quality is terrible, I forgot my camera and had to do with the cell.  
 While I was uploading these, I noticed a few older [StreetParade 2011][6] photos too.  
@@ -27,7 +27,7 @@ That was incredibly fun, got to know lots of new people, it was a really great i
 And while we're talking about great music, take a look at "[Nickelback - When We Stand Together][8]", amazing
 song, great video, profound message. Waiting on the new album!
 
-[1]: /blog/2011/04/02/within-temptation-@-zürich/ "Within Temptation @ Zürich"
+[1]: /blog/2011/04/02/within-temptation-z-rich/ "Within Temptation @ Zürich"
 [2]: http://www.within-temptation.com/ "Within Temptation"
 [5]: /mosaic/2011_Within_Temptation/ "Within Temptation 2011 concert photos"
 [6]: /mosaic/2011_StreetParade/ "StreetParade 2011 photos"
