@@ -6,7 +6,7 @@
 <img src="/downloads/llongi/me.jpg" width="160" height="160" style="float:left; margin-right:15px; margin-bottom:10px" alt="Luca Longinotti" />
 My name's Luca Longinotti, born 1988.
 <br />
-My CV can be downloaded <a href="/downloads/llongi/Europass-CV-20130425-Longinotti-EN.pdf" title="CV Luca Longinotti">here</a>.
+My CV can be downloaded <a href="/downloads/llongi/CV-Europass-20150918-Longinotti-EN.pdf" title="CV Luca Longinotti">here</a>.
 <br />
 <br />
 I currently live near Zürich, Switzerland, where I study Computer Science - Software Systems at the University of Zürich.
