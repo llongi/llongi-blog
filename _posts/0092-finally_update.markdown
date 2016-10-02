@@ -34,7 +34,7 @@ I took most of them during the 2015 road-trip through central US with my good fr
 
 I've gone through all the pages in the blog here and updated them, so they should reflect current reality better.
 I'm hoping to keep the blog more up-to-date in the future. I've promised myself I'd use it to document the
-resurrection of my oldest hobby: N-scale model trains. More on that soon.
+resurrection of my oldest hobby: [N-scale model trains][10]. More on that soon.
 
 [1]: http://www.inilabs.com/ "iniLabs Ltd."
 [2]: https://www.ini.uzh.ch/ "Institute of Neuroinformatics, UZH/ETHZ"
@@ -44,4 +44,5 @@ resurrection of my oldest hobby: N-scale model trains. More on that soon.
 [6]: https://sourceforge.net/projects/jaer/ "jAER project"
 [7]: https://github.com/inilabs/ "iniLabs GitHub"
 [8]: https://github.com/llongi/ "llongi GitHub"
-[9]: XXX "llongi photo gallery"
+[9]: https://drive.google.com/drive/folders/0ByFrW1EWTRxlbVdWeDFsVE9NZjA?usp=sharing "llongi photo gallery"
+[10]: https://drive.google.com/drive/folders/0ByFrW1EWTRxlSUhxbkNDakpvYkk?usp=sharing "model train photos"
