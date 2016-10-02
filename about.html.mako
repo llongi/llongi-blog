@@ -9,8 +9,9 @@ My name's Luca Longinotti, born 1988.
 My CV can be downloaded <a href="/downloads/llongi/CV-Europass-20161002-Longinotti-EN.pdf" title="CV Luca Longinotti">here</a>.
 <br />
 <br />
-I currently live near Zürich, Switzerland, where I study Computer Science - Software Systems at the University of Zürich.
+I currently live in the city of Zürich, Switzerland, where I work for a small company doing very special camera hardware, <a href="http://www.inilabs.com/">check us out</a>!
 But I'm originally from Ticino, the southern part of Switzerland, bordering Italy. I thus speak Italian, German, French and, clearly, English.
+I've studied "Computer Science - Software Systems" at the University of Zürich, and got my Bachelor's degree in 2015.
 <br />
 <br />
 I've always been interested in systems software, embedded systems, operating systems and networking.
@@ -23,7 +24,7 @@ If it's low-level, I like it! The lower, the better!
 <br />
 From 2005 to 2009 I was a Gentoo developer, working mainly on the various components of the LAMP stack, PHP and Apache primarly. It has been one
 of the most learning-rich experiences of my life, where most of my Unix systems knowledge comes from. Teamwork and user support were also big
-parts of the project, which I enjoyed immensely.
+parts of the project; interactions which I enjoyed immensely.
 <br />
 <br />
 Over the years I've moved from mostly PHP coding, such as when I worked on SysCP and maintained the Gentoo PHP packages, to nowadays doing most
@@ -36,16 +37,21 @@ I find that C heavily stimulates this approach, mostly by there being very littl
 By the way, if it doesn't have pointers, it's not worth it!
 <br />
 <br />
-Currently my main project is Rig, a library of lock-free data-structures, and its supporting structure, like atomic_ops, headers for atomic
-operations on a wide variety of architectures. My goal was to then, using the above, one day write a powerful and efficient web-server in C,
-a revival of a Python project I started a few years ago called Furie. I still hope to get to this at some point!
+Currently I mostly work on software for <a href="https://github.com/inilabs">my employer</a>, and help maintain the <a href="http://usb4java.org/">usb4java library</a>,
+a port of libusb to the Java platform to enable easy and high-performance USB device communication.
+One of my older projects was called <a href="https://github.com/llongi/rig">Rig</a>, a library of lock-free data-structures, and its supporting
+infrastructure, like atomic_ops, headers for atomic operations on a wide variety of architectures. My goal was to then, using the above, one day
+write a powerful and efficient web-server in C, a revival of a Python project I started a few years ago called <a href="https://github.com/llongi/furie">Furie</a>.
+The incredibly efficient web-servers that are now available (Apache, Lighttpd, Nginx) kinda made that a moot point. Atomic operations and threading
+are now finally part of the C11 standard. So that leaves the lock-free data-structures as the relevant survivor of that project: they're useful in
+some situations, and helped me learn a lot about parallel programming and reasoning.
 <br />
 <br />
-I'm also starting to look into FPGAs and HDL programming, as an extension of my interest in embedded systems.
+I'm also a fair hand with FPGAs and VHDL programming, as an extension of my interest in embedded systems.
 <br />
 <br />
-I also yearly spend a month with the Swiss Armed Forces, where I enjoy my position as company quartermaster sergeant. It's an interesting and
-very varied job, whose rythms represent a real change from the usual routine, and it's helped by serving with quite a few excellent people.
+Every year I spend a month with the Swiss Armed Forces, where I enjoy my position as company quartermaster sergeant. It's an interesting and
+very varied job, whose rhythms represent a real change from the usual routine, and it's helped by serving with quite a few excellent people.
 <br />
 <br />
 Privately I enjoy reading a lot, in both senses: I very much enjoy it, and I practice lots of it! Mostly fantasy novels, such as The Lord of the Rings,
@@ -55,8 +61,14 @@ Of course, good comedy, anime and cartoons round up the offering: Family Guy, Am
 are just some examples. I usually prefer stories with a real, good, deep plot to those with lots of explosions, chaos and not much else.
 <br />
 <br />
-Music-wise I'm into rock, hard-rock, pretty much any type of rock, as well as metal. I also love country, and modern instrumental classic
-music holds a special place in my ears.
+Recently, I've restarted one of my oldest hobbies: model trains. I loved building my own model railway and landscape as a kid, but had to abandon
+it mostly due to lack of space (and money). With an empty room in my apartment now, and a steady source of income, there was nothing stopping me
+from again enjoying this great pastime. I've been steadily increasing my collection of N-scale model trains, mostly Swiss electric engines and
+American steam and diesel engines; as well as building out a new multi-level track and landscape.
+<br />
+<br />
+Music-wise I'm into rock, hard-rock, pretty much any type of rock, as well as (softer) metal. I also love country, and modern instrumental classic
+music holds a special place in my ears. Artists such as Lindsay Stirling, Simply Three, Two Steps from Hell, Taylor Davis, etc. are simply amazing!
 <br />
 <br />
 I enjoy good food, though maybe at times too much of it. ;-) As a consequence, I like and enjoy cooking. I'm especially good with desserts. A fine
