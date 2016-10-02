@@ -87,87 +87,8 @@ It can be downloaded <a href="/downloads/UZH_2012_FS/FS12_SOPRA_Asara_Group3.jar
 The group consisted of Luca Longinotti, Genc Mazlami, Benjamin Ellenberger, Roman Göldi and Gregory Wyss.
 <br />
 <br />
-Following a table with the scores I got for each lecture:
-<br />
-<br />
-<table border="1">
-	<tr>
-		<td>Mathematik I</td>
-		<td>5.25</td>
-	</tr>
-	<tr>
-		<td>Mathematik II</td>
-		<td>5.25</td>
-	</tr>
-	<tr>
-		<td>Betriebswirtschaftslehre I</td>
-		<td>4.50</td>
-	</tr>
-	<tr>
-		<td>Betriebswirtschaftslehre II</td>
-		<td>4.50</td>
-	</tr>
-	<tr>
-		<td>Statistik</td>
-		<td>4.25</td>
-	</tr>
-	<tr>
-		<td>Financial Accounting</td>
-		<td>5.50</td>
-	</tr>
-	<tr>
-		<td>Informatik im Unternehmen</td>
-		<td>5.50</td>
-	</tr>
-	<tr>
-		<td>Informatik I</td>
-		<td>5.50</td>
-	</tr>
-	<tr>
-		<td>Informatik II</td>
-		<td>5.00</td>
-	</tr>
-	<tr>
-		<td>Formal Methods for Computer Science I</td>
-		<td>5.00</td>
-	</tr>
-	<tr>
-		<td>Formal Methods for Computer Science II</td>
-		<td>4.50</td>
-	</tr>
-	<tr>
-		<td>Kommunikations-Systeme</td>
-		<td>5.50</td>
-	</tr>
-	<tr>
-		<td>Software Engineering</td>
-		<td>4.50</td>
-	</tr>
-	<tr>
-		<td>Systems Software</td>
-		<td>5.00</td>
-	</tr>
-	<tr>
-		<td>Distributed Systems</td>
-		<td>4.50</td>
-	</tr>
-	<tr>
-		<td>Unix - OS &amp; Tools</td>
-		<td>4.50</td>
-	</tr>
-	<tr>
-		<td>Programmiertechniken in der Computerlinguistik I</td>
-		<td>4.50</td>
-	</tr>
-	<tr>
-		<td>Database Systems</td>
-		<td>4.00</td>
-	</tr>
-	<tr>
-		<td>Peer-to-Peer Systems and Applications</td>
-		<td>5.50</td>
-	</tr>
-</table>
+I don't really have any other useful summaries handy for the later semesters. In the end, I got my Bachelor's degree in 2015 with a grade
+average of 4.8. My final Bachelor's thesis work can be found <a href="https://github.com/llongi/caer/">here</a> (grade 5.5).
 	</div>
 </div>
 
