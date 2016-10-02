@@ -68,7 +68,7 @@ American steam and diesel engines; as well as building out a new multi-level tra
 <br />
 <br />
 Music-wise I'm into rock, hard-rock, pretty much any type of rock, as well as (softer) metal. I also love country, and modern instrumental classic
-music holds a special place in my ears. Artists such as Lindsay Stirling, Simply Three, Two Steps from Hell, Taylor Davis, etc. are simply amazing!
+music holds a special place in my ears. Artists such as Lindsey Stirling, Simply Three, Two Steps from Hell, Taylor Davis, etc. are simply amazing!
 <br />
 <br />
 I enjoy good food, though maybe at times too much of it. ;-) As a consequence, I like and enjoy cooking. I'm especially good with desserts. A fine
