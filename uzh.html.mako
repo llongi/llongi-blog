@@ -87,6 +87,7 @@ It can be downloaded <a href="/downloads/UZH_2012_FS/FS12_SOPRA_Asara_Group3.jar
 The group consisted of Luca Longinotti, Genc Mazlami, Benjamin Ellenberger, Roman Göldi and Gregory Wyss.
 <br />
 <br />
+<h3>Bachelor Semesters 5 & 6</h3>
 I don't really have any other useful summaries handy for the later semesters. In the end, I got my Bachelor's degree in 2015 with a grade
 average of 4.8. My final Bachelor's thesis work can be found <a href="https://github.com/llongi/caer/">here</a> (grade 5.5).
 	</div>

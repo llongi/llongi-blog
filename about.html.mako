@@ -37,11 +37,11 @@ I find that C heavily stimulates this approach, mostly by there being very littl
 By the way, if it doesn't have pointers, it's not worth it!
 <br />
 <br />
-Currently I mostly work on software for <a href="https://github.com/inilabs">my employer</a>, and help maintain the <a href="http://usb4java.org/">usb4java library</a>,
+Currently I mostly work on software for <a href="https://github.com/inilabs/">my employer</a>, and help maintain the <a href="http://usb4java.org/">usb4java library</a>,
 a port of libusb to the Java platform to enable easy and high-performance USB device communication.
-One of my older projects was called <a href="https://github.com/llongi/rig">Rig</a>, a library of lock-free data-structures, and its supporting
+One of my older projects was called <a href="https://github.com/llongi/rig/">Rig</a>, a library of lock-free data-structures, and its supporting
 infrastructure, like atomic_ops, headers for atomic operations on a wide variety of architectures. My goal was to then, using the above, one day
-write a powerful and efficient web-server in C, a revival of a Python project I started a few years ago called <a href="https://github.com/llongi/furie">Furie</a>.
+write a powerful and efficient web-server in C, a revival of a Python project I started a few years ago called <a href="https://github.com/llongi/furie/">Furie</a>.
 The incredibly efficient web-servers that are now available (Apache, Lighttpd, Nginx) kinda made that a moot point. Atomic operations and threading
 are now finally part of the C11 standard. So that leaves the lock-free data-structures as the relevant survivor of that project: they're useful in
 some situations, and helped me learn a lot about parallel programming and reasoning.
