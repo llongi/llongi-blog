@@ -299,7 +299,7 @@ class Category(object):
         self.path = bf.util.site_path_helper(
                 bf.config.controllers.blog.path,
                 bf.config.controllers.blog.category_dir,
-                self.url_name)
+                self.url_name) + "/"
 
     def __eq__(self, other):
         if self.name == other.name:

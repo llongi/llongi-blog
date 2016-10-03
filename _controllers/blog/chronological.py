@@ -49,7 +49,7 @@ def write_blog_first_page():
         blog.logger.info(u"Writing blog index page: " + path)
         if len(blog.posts) > blog.posts_per_page:
             next_link = bf.util.site_path_helper(
-                    blog.path, blog.pagination_dir+"/2")
+                    blog.path, blog.pagination_dir+"/2") + "/"
         else:
             next_link = None
         page_total = len(blog.posts) / blog.posts_per_page

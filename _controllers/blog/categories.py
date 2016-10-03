@@ -54,13 +54,13 @@ def write_categories():
             if page_num > 1:
                 prev_link = bf.util.site_path_helper(
                     blog.path, blog.category_dir, category.url_name,
-                                           str(page_num - 1))
+                                           str(page_num - 1)) + "/"
             else:
                 prev_link = None
             if len(category_posts) > 0:
                 next_link = bf.util.site_path_helper(
                     blog.path, blog.category_dir, category.url_name,
-                                           str(page_num + 1))
+                                           str(page_num + 1)) + "/"
             else:
                 next_link = None
 
