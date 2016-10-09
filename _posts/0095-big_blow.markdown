@@ -14,6 +14,6 @@ If you like big american engines, check those guys out. It looks amazing!
 They've also recently released a documentary about making model trains from the
 producer's view, [take a look][3]!
 
-[1]: "UP GTELs 'Big Blow'"
-[2]: "ScaleTrains"
-[3]: "Making Of Scale Models"
+[1]: https://en.wikipedia.org/wiki/Union_Pacific_GTELs "UP GTELs 'Big Blow'"
+[2]: https://www.scaletrains.com/ "ScaleTrains"
+[3]: http://trainmasters.tv/video-player/tmtv-2015-11-act-iii "Making Of Scale Models"
