@@ -2,8 +2,8 @@
 title: Planning the track layout.
 categories: NTrains
 author: Luca Longinotti
-date: 2016/10/03 12:00:00
-updated: 2016/10/03 12:00:00
+date: 2016/10/02 18:00:00
+updated: 2016/10/02 18:00:00
 ---
 So, the first step should always be planning. And in the case of model layouts, shape
 and size are the first things to be determined.

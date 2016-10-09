@@ -2,15 +2,18 @@
 title: UP Big Blow in N scale.
 categories: NTrains
 author: Luca Longinotti
-date: 2016/10/02 18:00:00
-updated: 2016/10/02 18:00:00
+date: 2016/10/06 18:00:00
+updated: 2016/10/06 18:00:00
 ---
 Towards the end of 2015, when I was looking at which big engines were even available
-in N scale, I found the beautiful Union Pacific GTELs. Sadly, nobody had or was
+in N scale, I found out about the beautiful [Union Pacific GTELs][1]. Sadly, nobody was
 producing them. Only H0 scale. So imagine my positive surprise when I ran that search
 again this week and found out that the guys behind the H0 version also announced
-an N scale version! I've already preordered engine #18 at ScaleTrains, yay!
+an N scale version! I've already pre-ordered engine #18 at [ScaleTrains][2], yay!
 If you like big american engines, check those guys out. It looks amazing!
+They've also recently released a documentary about making model trains from the
+producer's view, [take a look][3]!
 
 [1]: "UP GTELs 'Big Blow'"
 [2]: "ScaleTrains"
+[3]: "Making Of Scale Models"
