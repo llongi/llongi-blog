@@ -1,5 +1,5 @@
 ---
-title: UP Big Blow in N scale.
+title: UP Big Blow in N scale
 categories: NTrains
 author: Luca Longinotti
 date: 2016/10/06 18:00:00

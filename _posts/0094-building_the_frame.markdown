@@ -1,5 +1,5 @@
 ---
-title: Building the frame.
+title: Building the frame
 categories: NTrains
 author: Luca Longinotti
 date: 2016/10/04 18:00:00

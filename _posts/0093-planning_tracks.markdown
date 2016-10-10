@@ -1,5 +1,5 @@
 ---
-title: Planning the track layout.
+title: Planning the track layout
 categories: NTrains
 author: Luca Longinotti
 date: 2016/10/02 18:00:00
