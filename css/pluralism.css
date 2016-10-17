@@ -129,13 +129,15 @@ img.right {
 /* Wrapper */
 
 #wrapper {
-	width: 960px;
+	width: 100%;
 	margin: 0 auto;
 	background: url(images/img02.jpg) repeat-y;
+	background-size: 100%;
 }
 
 #wrapper2 {
 	background: url(images/img10.jpg) no-repeat left bottom;
+	background-size: 100%;
 }
 
 /* Header */
@@ -143,6 +145,7 @@ img.right {
 #header {
 	height: 140px;
 	background: #087FE7 url(images/img03.jpg) no-repeat;
+	background-size: 100%;
 }
 
 /* Logo */
@@ -153,7 +156,7 @@ img.right {
 
 #logo h1 {
 	margin: 0;
-	padding: 90px 0 0 78px;
+	padding: 90px 0 0 40%;
 	text-transform: lowercase;
 	letter-spacing: -3px;
 	font-size: 40px;
@@ -173,7 +176,7 @@ img.right {
 
 #menu ul {
 	margin: 0;
-	padding: 112px 78px 0 0;
+	padding: 112px 40% 0 0;
 	list-style: none;
 	line-height: normal;
 }
@@ -183,7 +186,7 @@ img.right {
 }
 
 #menu a {
-	padding-left: 40px;
+	padding-left: 20px;
 	text-decoration: none;
 	font-size: 13px;
 	font-weight: bold;
@@ -198,14 +201,15 @@ img.right {
 
 #page {
 	background: url(images/img04.jpg) no-repeat;
+	background-size: 100%;
 }
 
 /* Content */
 
 #content {
 	float: left;
-	width: 555px;
-	padding: 0 0 0 76px;
+	width: 65%;
+	padding: 0 0 0 9%;
 }
 
 .post {
@@ -258,8 +262,8 @@ img.right {
 
 #sidebar {
 	float: right;
-	width: 186px;
-	padding: 67px 76px 0 0;
+	width: 12%;
+	padding: 67px 9% 0 0;
 }
 
 #sidebar ul {
@@ -301,7 +305,7 @@ img.right {
 }
 
 #search #s {
-	width: 130px;
+	width: 60%;
 	padding: 2px 5px;
 	background: #FFFFFF;
 	border: 1px solid #EBEBEB;
@@ -312,26 +316,26 @@ img.right {
 /* Widebar */
 
 #widebar {
-	margin: 0 50px;
-	padding: 25px 28px 0 28px;
+	margin: 0 6%;
+	padding: 25px 3% 0 3%;
 	background: #F2F2F2 url(images/img11.gif) repeat-x;
 }
 
 #widebar #colA {
 	float: left;
-	width: 260px;
+	width: 30%;
 }
 
 #widebar #colB {
 	float: left;
-	width: 260px;
-	padding-left: 45px;
+	width: 30%;
+	padding-left: 5%;
 }
 
 #widebar #colC {
 	float: left;
-	width: 186px;
-	padding-left: 45px;
+	width: 30%;
+	padding-left: 5%;
 }
 
 /* Footer */
@@ -339,6 +343,7 @@ img.right {
 #footer {
 	height: 108px;
 	background: url(images/img05.jpg) no-repeat;
+	background-size: 100%;
 }
 
 #footer p {
