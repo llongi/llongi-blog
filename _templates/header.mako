@@ -1,5 +1,5 @@
 <div id="logo">
-	<h1>${bf.config.blog.name}</h1>
+	<h1><a href="/blog/" title="${bf.config.blog.name}">${bf.config.blog.name}</a></h1>
 </div>
 <div id="menu">
 	<ul>
