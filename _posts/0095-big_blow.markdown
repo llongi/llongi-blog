@@ -9,7 +9,7 @@ Towards the end of 2015, when I was looking at which big engines were even avail
 in N scale, I found out about the beautiful [Union Pacific GTELs][1]. Sadly, nobody was
 producing them. Only H0 scale. So imagine my positive surprise when I ran that search
 again this week and found out that the guys behind the H0 version also announced
-an N scale version! I've already pre-ordered engine #18 at [ScaleTrains][2], yay!
+an N scale version! I've already pre-ordered engine #14 at [ScaleTrains][2], yay!
 If you like big american engines, check those guys out. It looks amazing!
 They've also recently released a documentary about making model trains from the
 producer's view, [take a look][3]!

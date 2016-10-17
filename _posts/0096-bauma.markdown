@@ -13,10 +13,13 @@ production or limited edition series can be found here.
 As usual, the N scale was not that well represented, H0 clearly had most exhibitors
 and customers, with 0 and 1 also having a significant following.
 I had two main goals when walking out of my home that morning:
-- see the swiss train signals manufactured by [Microscale][3].
-- see the only manufacturer of the [SBB RABDe 500 "ICN"][4] in N scale, italian MD Trains.
+
+* see the swiss train signals manufactured by [Microscale][3]
+* see the only manufacturer of the [SBB RABDe 500 "ICN"][4] in N scale, italian MD Trains
+
 I managed to do both successfully. The signals by Microscale are really well made, I'll
 definitely order them there when I get to the point where I do need signals.
+
 I also had a very nice conversation with Dario Morciano from MD Trains, it helped a lot
 that we both spoke italian. His trains are beautifully made, on an order-by-order basis,
 there are maybe 20 ICNs currently worldwide. Everything was truly lovely, also the models
