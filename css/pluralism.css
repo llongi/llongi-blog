@@ -358,6 +358,13 @@ img.right {
 }
 
 /* SBB Trains Table */
+table {
+	margin: 10px auto;
+}
+td {
+	text-align: center;
+}
+
 .oop {
 	background-color: #FF3300;
 }
