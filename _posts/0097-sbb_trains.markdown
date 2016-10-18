@@ -2,8 +2,8 @@
 title: SBB trains and their availability in N
 categories: NTrains
 author: Luca Longinotti
-date: 2016/10/17 18:00:00
-updated: 2016/10/17 18:00:00
+date: 2016/10/18 23:00:00
+updated: 2016/10/18 23:00:00
 ---
 
 Below I tried to put together a relatively complete list of [Swiss Federal Railways][1]
@@ -78,7 +78,7 @@ have been impossible:
 		<tr><td>Minitrix</td><td>12860 green Luzern (Kt.)</td><td class="oop"></td></tr>
 		<tr><td>Minitrix</td><td>12936 green Luzern</td><td class="oop"></td></tr>
 		<tr><td>Minitrix</td><td>12939 green Bern</td><td class="oop"></td></tr>
-		<tr><td>Minitrix</td><td><12967 red Altdorf/td><td class="oop"></td></tr>
+		<tr><td>Minitrix</td><td>12967 red Altdorf</td><td class="oop"></td></tr>
 		<tr><td>Minitrix</td><td>12968 red Waadt</td><td class="oop"></td></tr>
 		<tr><td>Lematec</td><td>N-012 red/green</td><td class="oop"></td></tr>
 	</table></td>
@@ -121,7 +121,7 @@ have been impossible:
 	<td>Ce 6/8 III "Krokodil"<br />(Rework to Be 6/8 III)</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Swiss_Rail_SBB_Ce_6_8_14305_14253.jpg" alt="Ce 6/8 III" width="250" /></td>
 	<td><table border="1">
-		<tr><td>Merker & Fischer</td><td>2407 green</td><td class="oop"></td></tr>
+		<tr><td>Merker &amp; Fischer</td><td>2407 green</td><td class="oop"></td></tr>
 		<tr><td>Minitrix</td><td>12128 green</td><td class="oop"></td></tr>
 		<tr><td>Minitrix</td><td>12413 green</td><td class="oop"></td></tr>
 		<tr><td>Minitrix</td><td>12672 green</td><td class="oop"></td></tr>
@@ -708,7 +708,7 @@ have been impossible:
 	<td>Tm II</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/SBB_Tm_II_%28SBB_Tm_II_758_B%29.jpg" alt="Tm II" width="250" /></td>
 	<td><table border="1">
-		<tr><td><Arnold-Hornby/td><td>HN2014 #740</td><td class="avail"></td></tr>
+		<tr><td>Arnold-Hornby</td><td>HN2014 #740</td><td class="avail"></td></tr>
 	</table></td>
 	<td>
 		<a href="https://de.wikipedia.org/wiki/SBB_Tm_II">[1]</a>,
