@@ -27,19 +27,27 @@ have been impossible:
 [3]: http://www.bahnbilder.de/ "BahnBilder"
 
 
-<table border="1">
+<script type="text/javascript" src="/css/sorttable.js" async defer></script>
+
+<table border="1" class="sortable">
+
+<thead>
 
 <tr>
-	<td><h3>Model</h3></td>
-	<td><h3>Image</h3></td>
-	<td><h3>N Scale Info</h3></td>
-	<td><h3>Resources</h3></td>
+	<th>Model</th>
+	<th>Image</th>
+	<th>N Scale Info</th>
+	<th>Resources</th>
 </tr>
+
+</thead>
+
+<tbody>
 
 <tr>
 	<td>Ae 8/14</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/SBB_Ae_8_14_11801_Rail_Top.jpg" alt="Ae 8/14" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Fulgurex</td><td>4207</td><td class="oop"></td></tr>
 		<tr><td>Fulgurex</td><td>1136 "Landilok"</td><td class="oop"></td></tr>
 		<tr><td>Minitrix</td><td>12426</td><td class="oop"></td></tr>
@@ -55,7 +63,7 @@ have been impossible:
 <tr>
 	<td>Ae 4/6</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/SBB_Ae_4-6.JPG" alt="Ae 4/6" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Lematec</td><td>N-009</td><td class="oop"></td></tr>
 	</table></td>
 	<td>
@@ -67,7 +75,7 @@ have been impossible:
 <tr>
 	<td>Ae 6/6<br />Ae 610</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Ae_6-6_Portrait.jpg" alt="Ae 6/6" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Fleischmann</td><td>737201 green Chur</td><td class="oop"></td></tr>
 		<tr><td>Fleischmann</td><td>737202 Cargo</td><td class="oop"></td></tr>
 		<tr><td>Fleischmann</td><td>737203 red Altdorf</td><td class="oop"></td></tr>
@@ -94,7 +102,7 @@ have been impossible:
 <tr>
 	<td>Ce 6/8 II "Krokodil"<br />(Rework to Be 6/8 II)</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Ce6-8.jpeg" alt="Ce 6/8 II" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Arnold</td><td>2463 green</td><td class="oop"></td></tr>
 		<tr><td>Arnold</td><td>2465 green</td><td class="oop"></td></tr>
 		<tr><td>Arnold</td><td>2466 green</td><td class="oop"></td></tr>
@@ -120,7 +128,7 @@ have been impossible:
 <tr>
 	<td>Ce 6/8 III "Krokodil"<br />(Rework to Be 6/8 III)</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Swiss_Rail_SBB_Ce_6_8_14305_14253.jpg" alt="Ce 6/8 III" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Merker &amp; Fischer</td><td>2407 green</td><td class="oop"></td></tr>
 		<tr><td>Minitrix</td><td>12128 green</td><td class="oop"></td></tr>
 		<tr><td>Minitrix</td><td>12413 green</td><td class="oop"></td></tr>
@@ -164,7 +172,7 @@ have been impossible:
 <tr>
 	<td>Re 4/4 II<br />Re 420<br />Re 421</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/SBB_Re_420_Andelfingen_HVZ-D.jpg" alt="Re 420" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Fleischmann</td><td>734001 TEE</td><td class="rare"></td></tr>
 		<tr><td>Fleischmann</td><td>734002 red</td><td class="oop"></td></tr>
 		<tr><td>Fleischmann</td><td>734003 Cargo</td><td class="rare"></td></tr>
@@ -205,7 +213,7 @@ have been impossible:
 <tr>
 	<td>Re 450<br />4 parts, in use by:<br />SBB/ZVV, Sihltalbahn</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/SBB_Re_450_in_Z%C3%BCrich.jpg" alt="Re 450" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Fleischmann</td><td>7753, 8155, 8154, 8153 "DPZ (yellow doors)"</td><td class="oop"></td></tr>
 		<tr><td>Fleischmann</td><td>775301, 815501, 815401, 815381 "DPZ new (red doors)"</td><td class="oop"></td></tr>
 		<tr><td>Fleischmann</td><td>775302, 815502, 815402, 815382 "Sihltalbahn"</td><td class="oop"></td></tr>
@@ -220,7 +228,7 @@ have been impossible:
 <tr>
 	<td>Re 460 "Lok 2000"</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/2/28/SBB_Re_460_Schottikon_alternate_crop.jpg" alt="Re 460" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Fleischmann</td><td>731302 Rotes Kreuz</td><td class="avail"></td></tr>
 		<tr><td>Fleischmann</td><td>731404 NEAT</td><td class="oop"></td></tr>
 		<tr><td>Fleischmann</td><td>731306 Milch Kuh</td><td class="oop"></td></tr>
@@ -253,7 +261,7 @@ have been impossible:
 <tr>
 	<td>Re 474 (Siemens ES64F4)</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/SBB_Re_474_013.jpg" alt="Re 474" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Hobbytrain</td><td>2903</td><td class="avail"></td></tr>
 		<tr><td>Hobbytrain</td><td>2919</td><td class="avail"></td></tr>
 	</table></td>
@@ -267,7 +275,7 @@ have been impossible:
 <tr>
 	<td>Re 482 (Bombardier Traxx F140 AC1, F140 AC2)</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/TRAXX-Lokomotiven_in_Brake-Utw.jpg" alt="Re 482" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Fleischmann</td><td>738804</td><td class="new"></td></tr>
 	</table></td>
 	<td>
@@ -280,7 +288,7 @@ have been impossible:
 <tr>
 	<td>Re 484 (Bombardier Traxx F140 MS2)</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/SBB-Re-484.jpg" alt="Re 484" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Arnold</td><td>2325 Cisalpino-Set</td><td class="avail"></td></tr>
 		<tr><td>Arnold</td><td>2326 Cargo Gottardo</td><td class="avail"></td></tr>
 		<tr><td>Arnold</td><td>2327 Cargo</td><td class="avail"></td></tr>
@@ -296,7 +304,7 @@ have been impossible:
 <tr>
 	<td>Re 6/6<br />Re 620</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Re620_055-4.jpg" alt="Re 620" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Kato</td><td>10161 red</td><td class="oop"></td></tr>
 		<tr><td>Kato</td><td>10173 green</td><td class="new"></td></tr>
 		<tr><td>Kato</td><td>10174 red</td><td class="new"></td></tr>
@@ -323,7 +331,7 @@ have been impossible:
 <tr>
 	<td>RBDe 4/4 "NPZ"<br />RBDe 560 "NPZ Domino"<br />4 parts</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Npz_portrait.jpg" alt="NPZ" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Minitrain</td><td>163916</td><td class="oop"></td></tr>
 	</table></td>
 	<td>
@@ -344,7 +352,7 @@ have been impossible:
 <tr>
 	<td>RABDe 500 "ICN"<br />7 parts</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/InterCity-Neigezug_am_B%C3%B6zberg_-_S%C3%BCdrampe.jpg" alt="ICN" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>MD Trains</td><td>SBB-ICN-completo</td><td class="avail"></td></tr>
 	</table></td>
 	<td>
@@ -357,7 +365,7 @@ have been impossible:
 <tr>
 	<td>ETR 470 "Cisalpino"<br />9 parts</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/CIS_ETR_470_002.jpg" alt="ETR 470" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>MD Trains</td><td>SBB-ETR470-completo</td><td class="avail"></td></tr>
 	</table></td>
 	<td>
@@ -368,7 +376,7 @@ have been impossible:
 <tr>
 	<td>ETR 610<br />RABe 503<br />7 parts</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/SBB_ETR_610_Salgesch.jpg" alt="ETR 610" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>MD Trains</td><td>SBB-ETR610-completo</td><td class="avail"></td></tr>
 	</table></td>
 	<td>
@@ -381,7 +389,7 @@ have been impossible:
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/SBB_RABe_511_T%C3%B6ssm%C3%BChle.jpg" alt="RVD" width="250" />
 	<br />
 	<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/BLS_RABe_515_B%C3%BCrglen.jpg" alt="MUTZ" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>MD Trains</td><td>BLS-MUTZ-completo</td><td class="avail"></td></tr>
 	</table></td>
 	<td>
@@ -404,7 +412,7 @@ have been impossible:
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Beinwil_am_See_Seetalbahn_2003-06-25_4528.jpg" alt="SBB GTW 2/8" width="250" />
 	<br />
 	<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/GTW_2-8.jpg" alt="Thurbo GTW 2/8" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Piko</td><td>40226 BLS</td><td class="avail"></td></tr>
 	</table></td>
 	<td>
@@ -418,7 +426,7 @@ have been impossible:
 <tr>
 	<td>Stadler GTW 2/6<br />Thurbo RABe 526<br />2 parts</td>
 	<td><img src="http://www.bahnbilder.de/bilder/gtw-26-neuem-thurbo-outfit-am-255449.jpg" alt="Thurbo GTW 2/6" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Piko</td><td>40221 BLS</td><td class="avail"></td></tr>
 		<tr><td>Piko</td><td>40225 Thurbo</td><td class="avail"></td></tr>
 	</table></td>
@@ -433,7 +441,7 @@ have been impossible:
 	<td>Stadler FLIRT<br />SBB RABe 521 "Regio Basel"<br />SBB RABe 522 "Genf"<br />SBB RABe 523 "S-Bahn Zug, Aargau, Luzern"
 	<br />SBB RABe 524 "TILO"<br />SOB RABe 526 "S-Bahn Zürich, St. Gallen"<br />Thurbo RABe 526<br />4 parts<br />6 parts for TILO</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/SBB_RABe_523_FLIRT_der_Zuger_S-Bahn.jpg" alt="SBB RABe 523 FLIRT" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Liliput</td><td>163990 Regio Basel</td><td class="oop"></td></tr>
 		<tr><td>Liliput</td><td>163991 S-Bahn Zug</td><td class="oop"></td></tr>
 		<tr><td>Liliput</td><td>163992 Seehas</td><td class="oop"></td></tr>
@@ -451,7 +459,7 @@ have been impossible:
 <tr>
 	<td>RAe 4/8 1021 "Churchill-Pfeil"</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/SBB_RAe_4-8_1021_Rapperswil.jpg" alt="Churchill-Pfeil" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Fulgurex</td><td>1147</td><td class="oop"></td></tr>
 	</table></td>
 	<td>
@@ -464,7 +472,7 @@ have been impossible:
 <tr>
 	<td>CLe 2/4<br />RAe 2/4<br />"Roter-Pfeil"</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/SBB_RAe_2_4.jpg" alt="Roter-Pfeil" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Fulgurex</td><td>1152</td><td class="oop"></td></tr>
 		<tr><td>Hobbytrain</td><td>2640</td><td class="oop"></td></tr>
 		<tr><td>Hobbytrain</td><td>2642 with Ski-Trailer</td><td class="oop"></td></tr>
@@ -484,7 +492,7 @@ have been impossible:
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/RAeTEEAirolo.jpg" alt="TEE II" width="250" />
 	<br />
 	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Graue_Maus_in_Bern.jpg" alt="EC Graue Maus" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Kato</td><td>11406 EC "Graue Maus"</td><td class="oop"></td></tr>
 	</table></td>
 	<td>
@@ -498,7 +506,7 @@ have been impossible:
 <tr>
 	<td>TGV Lyria (POS)<br />10 parts</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Lyria_TGV_in_white.jpg" alt="TGV Lyria" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Kato</td><td>10920</td><td class="avail"></td></tr>
 	</table></td>
 	<td>
@@ -509,7 +517,7 @@ have been impossible:
 <tr>
 	<td>BDe 4/4</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/SBB_Historic_BDe_4-4_Pendel.jpg" alt="BDe 4/4" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Lematec</td><td>N-205</td><td class="new"></td></tr>
 	</table></td>
 	<td>
@@ -545,7 +553,7 @@ have been impossible:
 <tr>
 	<td>Bm 4/4</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/SBB_Bm_4_4_18424.jpg" alt="Bm 4/4" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Lematec</td><td>N-205</td><td class="avail"></td></tr>
 	</table></td>
 	<td>
@@ -558,7 +566,7 @@ have been impossible:
 <tr>
 	<td>Am 840<br />Vossloh G2000BB</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/SBB_Am_840.jpg" alt="Am 840" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Hobbytrain</td><td>2951</td><td class="avail"></td></tr>
 	</table></td>
 	<td>
@@ -581,7 +589,7 @@ have been impossible:
 <tr>
 	<td>Am 842<br />Vossloh G1000BB<br />MaK G1204BB</td>
 	<td><img src="http://www.bahnbilder.de/bilder/sbb-cargo-am-842-102-6-11361.jpg" alt="Am 842 Vossloh" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Minitrix</td><td>12352 Vossloh G1000BB</td><td class="oop"></td></tr>
 	</table></td>
 	<td>
@@ -594,7 +602,7 @@ have been impossible:
 <tr>
 	<td>Am 843</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/SBB_Am_843_Portrait.jpg" alt="Am 843" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Hobbytrain</td><td>2943 SBB Cargo</td><td class="new"></td></tr>
 		<tr><td>Hobbytrain</td><td>2944 BLS</td><td class="new"></td></tr>
 	</table></td>
@@ -608,7 +616,7 @@ have been impossible:
 <tr>
 	<td>Ee 922</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Sbb-ee922.jpg" alt="Ee 922" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>HAG</td><td>8012001</td><td class="new"></td></tr>
 		<tr><td>HAG</td><td>8012009 (set of two)</td><td class="new"></td></tr>
 	</table></td>
@@ -629,7 +637,7 @@ have been impossible:
 <tr>
 	<td>Ee 3/3</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Ee3-3_oberwinterthur.jpg" alt="Ee 3/3" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Arnold-Hornby</td><td>HN2013</td><td class="oop"></td></tr>
 	</table></td>
 	<td>
@@ -673,7 +681,7 @@ have been impossible:
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/TM_IV_8792.JPG" alt="Tm IV" width="250" />
 	<br />
 	<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/SBB_232_129-7_1.jpg" alt="Tm 232" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Pirata</td><td>2130 red</td><td class="new"></td></tr>
 		<tr><td>Pirata</td><td>2131 Cargo</td><td class="new"></td></tr>
 	</table></td>
@@ -707,7 +715,7 @@ have been impossible:
 <tr>
 	<td>Tm II</td>
 	<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/SBB_Tm_II_%28SBB_Tm_II_758_B%29.jpg" alt="Tm II" width="250" /></td>
-	<td><table border="1">
+	<td><table border="1" class="sortable">
 		<tr><td>Arnold-Hornby</td><td>HN2014 #740</td><td class="avail"></td></tr>
 	</table></td>
 	<td>
@@ -736,5 +744,7 @@ have been impossible:
 		<a href="http://www.9-mm.ch/tfz/tfz_9mm_traktor_sbb_003.htm">[2]</a>
 	</td>
 </tr>
+
+</tbody>
 
 </table>
