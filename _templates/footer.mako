@@ -18,7 +18,7 @@
 				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
 			}
 		}
-		document.write('<script charset="utf-8" type="text/javascript" src="https://disqus.com/forums/${bf.config.blog.disqus.name}/get_num_replies.js' + query + '" async defer></' + 'script>');
+		document.write('<script charset="utf-8" type="text/javascript" src="https://disqus.com/forums/${bf.config.blog.disqus.name}/get_num_replies.js' + query + '" async="async"></' + 'script>');
 	})();
 	//]]>
 	</script>

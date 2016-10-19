@@ -6,7 +6,7 @@
 	<script type="text/javascript">
 		var disqus_url = "${post.permalink}";
 	</script>
-	<script type="text/javascript" src="https://disqus.com/forums/${bf.config.blog.disqus.name}/embed.js" async defer></script>
+	<script type="text/javascript" src="https://disqus.com/forums/${bf.config.blog.disqus.name}/embed.js" async="async"></script>
 	<noscript>
 		<p>
 			<br />

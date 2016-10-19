@@ -27,7 +27,7 @@ have been impossible:
 [3]: http://www.bahnbilder.de/ "BahnBilder"
 
 
-<script type="text/javascript" src="/css/sorttable.js" async defer></script>
+<script type="text/javascript" src="/css/sorttable.js" async="async"></script>
 
 <table border="1" class="sortable">
 
