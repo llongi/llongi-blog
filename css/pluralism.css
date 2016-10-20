@@ -371,27 +371,15 @@ td {
 .oop {
 	background-color: #FF3300;
 }
-.oop:before {
-	content: "Out of Production";
-}
 
 .rare {
 	background-color: #FF9900;
-}
-.rare:before {
-	content: "Very Small Availability";
 }
 
 .avail {
 	background-color: #66FF33;
 }
-.avail:before {
-	content: "Available";
-}
 
 .new {
 	background-color: #00CCFF;
-}
-.new:before {
-    content: "Announced";
 }
